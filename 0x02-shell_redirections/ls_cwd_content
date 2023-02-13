@@ -1,0 +1,16 @@
+total 48
+drwxrwxr-x 2 eddyglobal eddyglobal 4096 K-Ɔ 13 15:05 .
+drwxrwxr-x 6 eddyglobal eddyglobal 4096 K-Ɔ 13 13:56 ..
+-rwxrw-r-- 1 eddyglobal eddyglobal   32 K-Ɔ 13 14:00 0-hello_world
+-rwxrw-r-- 1 eddyglobal eddyglobal   28 K-Ɔ 13  2023 1-confused_smiley
+-rwxrw-r-- 1 eddyglobal eddyglobal   28 K-Ɔ 13  2023 2-hellofile
+-rwxrw-r-- 1 eddyglobal eddyglobal   39 K-Ɔ 13  2023 3-twofiles
+-rwxrw-r-- 1 eddyglobal eddyglobal   35 K-Ɔ 13  2023 4-lastlines
+-rwxrw-r-- 1 eddyglobal eddyglobal   35 K-Ɔ 13  2023 5-firstlines
+-rwxrw-r-- 1 eddyglobal eddyglobal   40 K-Ɔ 13  2023 6-third_line
+-rw-rw-r-- 1 eddyglobal eddyglobal   62 K-Ɔ 13 14:49 7-file
+-rw-rw-r-- 1 eddyglobal eddyglobal   36 K-Ɔ 13 15:02 8-cwd_state
+-rw-rw-r-- 1 eddyglobal eddyglobal    0 K-Ɔ 13  2023 *\"Best School"\\*$?*****:)
+-rw-rw-r-- 1 eddyglobal eddyglobal    0 K-Ɔ 13  2023 \*\\'Best School'\\*$\?\*\*\*\*:)
+-rw-rw-r-- 1 eddyglobal eddyglobal    0 K-Ɔ 13 15:05 ls_cwd_content
+-rw-rw-r-- 1 eddyglobal eddyglobal   19 K-Ɔ 13 13:59 README.md
